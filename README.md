@@ -2,79 +2,79 @@
 
 🚀 Project Overview
 
-This project is an AI-powered Telegram Chatbot Agent designed to automate conversations, perform intelligent decision-making, and execute tasks through a structured workflow. The bot acts as a smart assistant that understands user queries, processes them using AI logic, and responds dynamically — making interactions smooth, fast, and human-like.
+  This project is an AI-powered Telegram Chatbot Agent designed to automate conversations, perform intelligent decision-making, and execute      tasks through a structured workflow. The bot acts as a smart assistant that understands user queries, processes them using AI logic, and       responds dynamically — making interactions smooth, fast, and human-like.
 
-The system is built with a modular workflow architecture, making it easy to extend with new tools, APIs, or AI capabilities.
+  The system is built with a modular workflow architecture, making it easy to extend with new tools, APIs, or AI capabilities.
 
 ✨ Key Features
 
 ✅ AI-Powered Conversations
 
-Uses NLP and intelligent logic to understand user intent
+  Uses NLP and intelligent logic to understand user intent
 
-Context-aware replies for better user experience
+  Context-aware replies for better user experience
 
 ✅ Workflow-Based Architecture
 
-Each task follows a defined workflow (input → process → output)
+  Each task follows a defined workflow (input → process → output)
 
-Easy to add new actions like reminders, data fetch, or automation
+  Easy to add new actions like reminders, data fetch, or automation
 
 ✅ Telegram Bot Integration
 
-Fully integrated with Telegram Bot API
+  Fully integrated with Telegram Bot API
 
-Real-time message handling
+  Real-time message handling
 
 ✅ Custom Command Handling
 
-/start, /help, and custom commands
+  /start, /help, and custom commands
 
-Can be extended to support menus and buttons
+  Can be extended to support menus and buttons
 
 ✅ Scalable & Modular Design
 
-Easy to plug in APIs, databases, or AI models
+  Easy to plug in APIs, databases, or AI models
 
-Clean folder structure for production use
+  Clean folder structure for production use
 
 🧠 AI Agent Workflow
 
-User Message Input (Telegram)
+  User Message Input (Telegram)
 
-Intent Detection & Processing
+  Intent Detection & Processing
 
-AI Decision Engine
+  AI Decision Engine
 
-Workflow Execution
+  Workflow Execution
 
-Response Generation
+  Response Generation
 
-Reply Sent to User
+  Reply Sent to User
 
-This design makes the bot suitable for:
+  This design makes the bot suitable for:
 
-Customer support automation
+  Customer support automation
 
-Personal AI assistant
+  Personal AI assistant
 
-Task automation
+  Task automation
 
-Information retrieval
+  Information retrieval
 
-Smart notifications
+  Smart notifications
 
 🛠️ Tech Stack
 
-Python
+  Python
 
-Telegram Bot API
+  Telegram Bot API
 
-AI / NLP Models (LLM-based or rule-based)
+  AI / NLP Models (LLM-based or rule-based)
 
-Workflow Engine (Custom Logic)
+  Workflow Engine (Custom Logic)
 
-JSON / API Integrations
+  JSON / API Integrations
 
 📂 Project Structure
 telegram-ai-agent/
@@ -91,35 +91,35 @@ telegram-ai-agent/
 └── README.md              # Project documentation
 
 ⚙️ Setup & Installation
-git clone https://github.com/your-username/telegram-ai-agent.git
-cd telegram-ai-agent
-pip install -r requirements.txt
-python bot.py
+  git clone https://github.com/your-username/telegram-ai-agent.git
+  cd telegram-ai-agent
+  pip install -r requirements.txt
+  python bot.py
 
 🔐 Environment Variables
 
-Create a .env file:
+  Create a .env file:
 
-TELEGRAM_BOT_TOKEN=your_bot_token_here
+  TELEGRAM_BOT_TOKEN=your_bot_token_here
 
 🌟 Future Enhancements
 
-Memory-based conversations
+  Memory-based conversations
 
-Multi-language support
+  Multi-language support
 
-Voice message handling
+  Voice message handling
 
-Database integration
+  Database integration
 
-AI model fine-tuning
+  AI model fine-tuning
 
 📌 Use Cases
 
-✔ AI Assistant
-✔ Business Chatbot
-✔ Automation Agent
-✔ Educational Assistant
-✔ Customer Support Bot
+  ✔ AI Assistant
+  ✔ Business Chatbot
+  ✔ Automation Agent
+  ✔ Educational Assistant
+  ✔ Customer Support Bot
 
  
